@@ -118,3 +118,4 @@ C:\Users\joao.asferraz\Downloads\SantaGula---Restaurante-main\SantaGula---Restau
 C:\Users\joao.asferraz\Downloads\SantaGula---Restaurante-main\SantaGula---Restaurante-main\SantaGula - Restaurante\obj\Debug\net8.0-windows\SantaGul.BA48B154.Up2Date
 C:\Users\joao.asferraz\Downloads\SantaGula---Restaurante-main\SantaGula---Restaurante-main\SantaGula - Restaurante\obj\Debug\net8.0-windows\SantaGula - Restaurante.genruntimeconfig.cache
 C:\Users\joao.asferraz\Downloads\SantaGula---Restaurante-main\SantaGula---Restaurante-main\SantaGula - Restaurante\obj\Debug\net8.0-windows\ref\SantaGula - Restaurante.dll
+C:\Users\joao.asferraz\Downloads\SantaGula---Restaurante-main\SantaGula---Restaurante-main\SantaGula - Restaurante\obj\Debug\net8.0-windows\SantaGula - Restaurante.sourcelink.json

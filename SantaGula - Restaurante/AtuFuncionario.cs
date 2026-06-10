@@ -90,11 +90,6 @@ namespace SantaGula___Restaurante
             }
 
             string cpf = maskedTextBox1.Text;
-            if (cpf.Length != 11)
-            {
-                MessageBox.Show("CPF inválido! Tente novamente!");
-                return;
-            }
 
             if (textBox2.Text != "")
                 this.funcionario.Atualizar(codigo, "nome", textBox1.Text);

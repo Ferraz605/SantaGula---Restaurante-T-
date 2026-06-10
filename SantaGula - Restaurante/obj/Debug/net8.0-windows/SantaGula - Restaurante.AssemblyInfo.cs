@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SantaGula - Restaurante")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4374fe0cc8f80ce2e0067cd2ba1c941038a7695b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SantaGula - Restaurante")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SantaGula - Restaurante")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
