@@ -1,0 +1,657 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\daosala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\daosala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\daofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\daofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\daoestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\daoestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\daoendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\daoendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\daocomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\daocomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\daocardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\daocardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\exccomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\exccomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\atucomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\atucomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\atucomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\atucomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\comida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\comida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\comida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\comida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\addfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\addfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\addfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\addfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\addendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\addendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\addendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\addendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\excendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\excendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\excestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\excestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\excfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\excfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\excsala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\excsala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\exccomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\exccomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\exccardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\exccardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\cardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\cardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\atusala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\atusala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\atufuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\atufuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\atuestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\atuestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\atuendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\atuendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\atucardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\atucardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\addsala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\addsala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\addestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\addestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\addcomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\addcomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|c:\\users\\joao.asferraz\\downloads\\santagula---restaurante-main\\santagula---restaurante-main\\santagula - restaurante\\addcardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A342CC4-E0AE-48B1-BBD3-1E73B6980EDE}|SantaGula - Restaurante\\SantaGula - Restaurante.csproj|solutionrelative:santagula - restaurante\\addcardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DAOCardapio.cs",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\DAOCardapio.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\DAOCardapio.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\DAOCardapio.cs",
+              "RelativeToolTip": "SantaGula - Restaurante\\DAOCardapio.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T19:44:21.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAOSala.cs",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\DAOSala.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\DAOSala.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\DAOSala.cs",
+              "RelativeToolTip": "SantaGula - Restaurante\\DAOSala.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAcwJAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T19:43:17.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExcComida.cs",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ExcComida.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\ExcComida.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ExcComida.cs",
+              "RelativeToolTip": "SantaGula - Restaurante\\ExcComida.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwCoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T19:39:45.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ExcFuncionario.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ExcFuncionario.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\ExcFuncionario.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ExcFuncionario.cs [Projeto]",
+              "RelativeToolTip": "SantaGula - Restaurante\\ExcFuncionario.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:44:53.896Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ExcEstoque.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ExcEstoque.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\ExcEstoque.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ExcEstoque.cs [Projeto]",
+              "RelativeToolTip": "SantaGula - Restaurante\\ExcEstoque.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:44:39.508Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Estoque.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\Estoque.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\Estoque.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\Estoque.cs [Projeto]",
+              "RelativeToolTip": "SantaGula - Restaurante\\Estoque.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:44:12.489Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DAOEndereco.cs",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\DAOEndereco.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\DAOEndereco.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\DAOEndereco.cs",
+              "RelativeToolTip": "SantaGula - Restaurante\\DAOEndereco.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAcwKEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:58:43.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Endereco.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\Endereco.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\Endereco.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\Endereco.cs [Projeto]",
+              "RelativeToolTip": "SantaGula - Restaurante\\Endereco.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:44:08.16Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DAOEstoque.cs",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\DAOEstoque.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\DAOEstoque.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\DAOEstoque.cs",
+              "RelativeToolTip": "SantaGula - Restaurante\\DAOEstoque.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAIwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T19:22:28.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DAOFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\DAOFuncionario.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\DAOFuncionario.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\DAOFuncionario.cs",
+              "RelativeToolTip": "SantaGula - Restaurante\\DAOFuncionario.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAmwLUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:58:39.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DAOComida.cs",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\DAOComida.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\DAOComida.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\DAOComida.cs",
+              "RelativeToolTip": "SantaGula - Restaurante\\DAOComida.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAQwFQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T19:35:30.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ExcSala.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ExcSala.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\ExcSala.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ExcSala.cs [Projeto]",
+              "RelativeToolTip": "SantaGula - Restaurante\\ExcSala.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:45:01.648Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Funcionario.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\Funcionario.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\Funcionario.cs [Projeto]",
+              "RelativeToolTip": "SantaGula - Restaurante\\Funcionario.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:45:06.077Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AtuComida.cs",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\AtuComida.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\AtuComida.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\AtuComida.cs",
+              "RelativeToolTip": "SantaGula - Restaurante\\AtuComida.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwBgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T19:39:29.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sala.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\Sala.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\Sala.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\Sala.cs [Projeto]",
+              "RelativeToolTip": "SantaGula - Restaurante\\Sala.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:45:09.622Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sala.cs",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\Sala.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\Sala.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\Sala.cs",
+              "RelativeToolTip": "SantaGula - Restaurante\\Sala.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAkwIAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T19:19:55.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AtuComida.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\AtuComida.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\AtuComida.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\AtuComida.cs [Projeto]",
+              "RelativeToolTip": "SantaGula - Restaurante\\AtuComida.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:42:02.522Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Estoque.cs",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\Estoque.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\Estoque.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\Estoque.cs",
+              "RelativeToolTip": "SantaGula - Restaurante\\Estoque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T19:17:14.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\Login.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\Login.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\Login.cs [Projeto]",
+              "RelativeToolTip": "SantaGula - Restaurante\\Login.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:45:07.473Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Comida.cs",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\Comida.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\Comida.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\Comida.cs",
+              "RelativeToolTip": "SantaGula - Restaurante\\Comida.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T19:19:37.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Comida.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\Comida.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\Comida.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\Comida.cs [Projeto]",
+              "RelativeToolTip": "SantaGula - Restaurante\\Comida.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:43:58.899Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ADDEndereco.cs",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ADDEndereco.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\ADDEndereco.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ADDEndereco.cs",
+              "RelativeToolTip": "SantaGula - Restaurante\\ADDEndereco.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAA5wEgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:59:24.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ADDFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ADDFuncionario.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\ADDFuncionario.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ADDFuncionario.cs",
+              "RelativeToolTip": "SantaGula - Restaurante\\ADDFuncionario.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAA9wFIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T19:02:31.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ExcEndereco.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ExcEndereco.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\ExcEndereco.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ExcEndereco.cs [Projeto]",
+              "RelativeToolTip": "SantaGula - Restaurante\\ExcEndereco.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:44:35.207Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ADDFuncionario.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ADDFuncionario.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\ADDFuncionario.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ADDFuncionario.cs [Projeto]",
+              "RelativeToolTip": "SantaGula - Restaurante\\ADDFuncionario.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:41:11.599Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ADDEndereco.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ADDEndereco.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\ADDEndereco.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ADDEndereco.cs [Projeto]",
+              "RelativeToolTip": "SantaGula - Restaurante\\ADDEndereco.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:40:50.459Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MenuPrincipal.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\MenuPrincipal.cs [Projeto]",
+              "RelativeToolTip": "SantaGula - Restaurante\\MenuPrincipal.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:45:08.562Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ExcComida.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ExcComida.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\ExcComida.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ExcComida.cs [Projeto]",
+              "RelativeToolTip": "SantaGula - Restaurante\\ExcComida.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:44:19.355Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ExcCardapio.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ExcCardapio.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\ExcCardapio.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ExcCardapio.cs [Projeto]",
+              "RelativeToolTip": "SantaGula - Restaurante\\ExcCardapio.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:44:14.515Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Cardapio.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\Cardapio.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\Cardapio.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\Cardapio.cs [Projeto]",
+              "RelativeToolTip": "SantaGula - Restaurante\\Cardapio.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:43:51.291Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AtuSala.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\AtuSala.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\AtuSala.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\AtuSala.cs [Projeto]",
+              "RelativeToolTip": "SantaGula - Restaurante\\AtuSala.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:43:29.065Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AtuFuncionario.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\AtuFuncionario.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\AtuFuncionario.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\AtuFuncionario.cs [Projeto]",
+              "RelativeToolTip": "SantaGula - Restaurante\\AtuFuncionario.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:42:49.989Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AtuEstoque.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\AtuEstoque.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\AtuEstoque.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\AtuEstoque.cs [Projeto]",
+              "RelativeToolTip": "SantaGula - Restaurante\\AtuEstoque.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:42:33.079Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AtuEndereco.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\AtuEndereco.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\AtuEndereco.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\AtuEndereco.cs [Projeto]",
+              "RelativeToolTip": "SantaGula - Restaurante\\AtuEndereco.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:42:25.807Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AtuCardapio.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\AtuCardapio.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\AtuCardapio.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\AtuCardapio.cs [Projeto]",
+              "RelativeToolTip": "SantaGula - Restaurante\\AtuCardapio.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:41:56.335Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ADDSala.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ADDSala.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\ADDSala.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ADDSala.cs [Projeto]",
+              "RelativeToolTip": "SantaGula - Restaurante\\ADDSala.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:41:14.707Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ADDEstoque.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ADDEstoque.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\ADDEstoque.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ADDEstoque.cs [Projeto]",
+              "RelativeToolTip": "SantaGula - Restaurante\\ADDEstoque.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:40:59.148Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ADDComida.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ADDComida.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\ADDComida.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ADDComida.cs [Projeto]",
+              "RelativeToolTip": "SantaGula - Restaurante\\ADDComida.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:40:27.435Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ADDCardapio.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ADDCardapio.cs",
+              "RelativeDocumentMoniker": "SantaGula - Restaurante\\ADDCardapio.cs",
+              "ToolTip": "C:\\Users\\joao.asferraz\\Downloads\\SantaGula---Restaurante-main\\SantaGula---Restaurante-main\\SantaGula - Restaurante\\ADDCardapio.cs [Projeto]",
+              "RelativeToolTip": "SantaGula - Restaurante\\ADDCardapio.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:40:24.533Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
